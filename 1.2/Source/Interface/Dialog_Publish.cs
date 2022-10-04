@@ -84,7 +84,7 @@ namespace PublisherPlus.Interface
             else if (_page == 2) { DoFinalize(contentRect); }
 
             var buttonRect = new Rect(inRect.x, contentRect.yMax + Padding, inRect.width, ButtonHeight);
-            var grid = new GridLayout(buttonRect, 6);
+            var grid = new Verse.GridLayout(buttonRect, 6);
 
             if (WidgetsPlus.ButtonText(grid.GetCellRect(0, 0, 2), _page == 0 ? Lang.Get("Button.Close") : Lang.Get("Button.Back"))) { PreviousPage(); }
             if (WidgetsPlus.ButtonText(grid.GetCellRect(2, 0), Lang.Get("Button.Default"))) { ResetConfig(); }

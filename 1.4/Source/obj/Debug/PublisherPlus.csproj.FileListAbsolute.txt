@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PublisherPlus1.4\Source\obj\Debug\PublisherPlus.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PublisherPlus1.4\Source\obj\Debug\PublisherPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PublisherPlus1.4\Source\obj\Debug\PublisherPlus.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PublisherPlus1.4\Assemblies\PublisherPlus.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PublisherPlus1.4\Assemblies\PublisherPlus.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PublisherPlus1.4\Source\obj\Debug\PublisherPlus.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PublisherPlus1.4\Source\obj\Debug\PublisherPlus.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PublisherPlus1.4\Source\obj\Debug\PublisherPlus.pdb

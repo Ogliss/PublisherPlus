@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xiJJ+WGhO0+5eeHacBf+5MRRz1Lree92uw0EzQEl8FjI6g3QsKf3tSj0EpIozmkFd2DIfo2JWmKCa9AiOB4wgA==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\PublisherPlus1.4\\Source\\PublisherPlus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\krafs.publicizer\\2.0.1\\krafs.publicizer.2.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\krafs.rimworld.ref\\1.4.3542\\krafs.rimworld.ref.1.4.3542.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\lib.harmony\\2.2.2\\lib.harmony.2.2.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
